@@ -1,0 +1,7 @@
+C:\Users\ubedullah.patait\source\repos\SmartPhoneSample\SmartPhoneSample\bin\Debug\SmartPhoneSample.exe.config
+C:\Users\ubedullah.patait\source\repos\SmartPhoneSample\SmartPhoneSample\bin\Debug\SmartPhoneSample.exe
+C:\Users\ubedullah.patait\source\repos\SmartPhoneSample\SmartPhoneSample\bin\Debug\SmartPhoneSample.pdb
+C:\Users\ubedullah.patait\source\repos\SmartPhoneSample\SmartPhoneSample\obj\Debug\SmartPhoneSample.csproj.AssemblyReference.cache
+C:\Users\ubedullah.patait\source\repos\SmartPhoneSample\SmartPhoneSample\obj\Debug\SmartPhoneSample.csproj.CoreCompileInputs.cache
+C:\Users\ubedullah.patait\source\repos\SmartPhoneSample\SmartPhoneSample\obj\Debug\SmartPhoneSample.exe
+C:\Users\ubedullah.patait\source\repos\SmartPhoneSample\SmartPhoneSample\obj\Debug\SmartPhoneSample.pdb
