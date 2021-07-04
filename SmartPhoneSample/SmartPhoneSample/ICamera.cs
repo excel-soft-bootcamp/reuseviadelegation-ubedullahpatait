@@ -8,7 +8,7 @@ namespace SmartPhoneSample
 {
   public  interface ICamera
     {
-        void Click();
+        void TakePicture();
 
     }
 }
