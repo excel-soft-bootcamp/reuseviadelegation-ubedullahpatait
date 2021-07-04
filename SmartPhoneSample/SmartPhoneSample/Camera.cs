@@ -8,6 +8,6 @@ namespace SmartPhoneSample
 {
     class Camera:ICamera
     {
-        public void Click() { }
+        public void TakePicture() { }
     }
 }
