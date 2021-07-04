@@ -31,10 +31,10 @@ namespace SmartPhoneSample
 
 
 
-        public void Click()
+        public void TakePicture()
         {
 
-            this._cameraRef.Click();
+            this._cameraRef.TakePicture();
 
 
         }
